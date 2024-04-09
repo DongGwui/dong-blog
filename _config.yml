@@ -4,7 +4,7 @@ bio:            'Just a simple Jekyll theme'
 description:    "Simple Jekyll theme for your blog by Taylan Tatlı"
 picture:        'assets/img/Logo.png'
 locale:         en_US
-url:            https://donggwui.github.io/dong-blog
+url:            https://donggwui.github.io
 
 # Jekyll
 permalink:      /:title/
@@ -63,7 +63,7 @@ gems:
   - jekyll-paginate
 
 jekyll-mentions:
-    base_url: /dong-blog/
+    base_url: /
 
 # Exclude list
 exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, LICENSE, Rakefile]
